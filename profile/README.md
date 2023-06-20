@@ -11,3 +11,4 @@
 
 * [Revenue - First release](https://github.com/orgs/glasspath/projects/2)
 * [Aerialist - First release](https://github.com/orgs/glasspath/projects/3)
+* [Plc-Lab 0.9.x (Camera Station)](https://github.com/orgs/glasspath/projects/5)
